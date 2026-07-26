@@ -8,4 +8,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Level1\SelfPractice\" />
+    <Folder Include="Level2\SelfPractice\" />
+    <Folder Include="PreparatoryExecises\" />
+  </ItemGroup>
+
 </Project>

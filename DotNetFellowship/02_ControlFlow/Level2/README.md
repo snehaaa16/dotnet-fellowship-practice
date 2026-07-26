@@ -5,7 +5,7 @@ Covers nested conditions, loop control, and applied logic problems.
 ## Exercises
 
 | File | Problem Statement |
-|---|---|
+|
 | LeapYear.cs | Check whether a given year is a leap year |
 | LeapYearSingleCondition.cs | Check whether a year is a leap year using a single condition with logical operators |
 | GradeCalculator.cs | Compute percentage and grade from marks in three subjects |
@@ -22,5 +22,3 @@ Covers nested conditions, loop control, and applied logic problems.
 ## Self Practice
 
 | File | Problem Statement |
-|---|---|
-| _(to be added)_ | |

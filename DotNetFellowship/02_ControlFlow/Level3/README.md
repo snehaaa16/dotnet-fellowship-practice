@@ -5,7 +5,7 @@ Covers digit manipulation, switch-case, and multi-step logic problems.
 ## Exercises
 
 | File | Problem Statement |
-|---|---|
+|
 | ArmstrongNumber.cs | Check whether a number is an Armstrong number |
 | CountDigits.cs | Count the number of digits in an integer |
 | HarshadNumber.cs | Check whether a number is a Harshad number |
@@ -16,5 +16,5 @@ Covers digit manipulation, switch-case, and multi-step logic problems.
 ## Self Practice
 
 | File | Problem Statement |
-|---|---|
-| _(to be added)_ | |
+
+ 

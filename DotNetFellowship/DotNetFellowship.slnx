@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="01_CoreProgramming_Basics/01_CoreProgramming_Basics.csproj" />
-  <Project Path="02_ControlFlow/02_ControlFlow.csproj" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/01_CoreProgramming_Basics/01_CoreProgramming_Basics.csproj" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/02_ControlFlow/02_ControlFlow.csproj" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/03_Arrays/03_Arrays.csproj" Id="93451941-ddda-47a8-86b3-64dce02d9d68" />
 </Solution>
