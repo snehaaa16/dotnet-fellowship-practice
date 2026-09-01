@@ -1,4 +1,28 @@
 <Solution>
-  <Project Path="01_CoreProgramming_Basics/01_CoreProgramming_Basics.csproj" />
-  <Project Path="02_ControlFlow/02_ControlFlow.csproj" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/010_UnitTesting/010_UnitTesting.csproj" Id="1f820f5c-0c86-4739-8e48-5dc4327a5b62" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/01_CoreProgramming_Basics/01_CoreProgramming_Basics.csproj" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/02_ControlFlow/02_ControlFlow.csproj" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/03_Arrays/03_Arrays.csproj" Id="93451941-ddda-47a8-86b3-64dce02d9d68" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/04_Methods/04_Methods.csproj" Id="65be06b7-6445-4d97-877c-0f6bf79c4da3" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/05_Strings/05_Strings.csproj" Id="1a36209b-ba67-43bf-b621-7a53b721dd4b" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/07_OOPS/07_OOPS.csproj" Id="f31084fa-3293-4531-8c80-1ee2224af557" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/08_Inheritance/08_Inheritance.csproj" Id="b6d0ca6a-5cbc-4d63-8576-48febd5bfd4a" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/09_AbstractClass_Interface/09_AbstractClass_Interface.csproj" Id="953f6923-0116-4739-8b2b-0d2785f50996" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/12_Generics/12_Generics.csproj" Id="51c9e15f-a26e-42b2-a813-b69af88eb0f5" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/13_Collections/13_Collections.csproj" Id="c14369f5-8e2d-48ff-a785-73c1be6f9912" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/Collections/Collections.csproj" Id="8f813b54-b794-4606-a795-334cb4d09ee3" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/LinkedList/LinkedList.csproj" Id="30e1244e-5214-4926-8aee-1e6dae03c394" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/Practice/Practice.csproj" Id="ea6fca83-06bc-4134-ada1-8f29b44532c6" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/RideSharingPlatform/RideSharingPlatform.csproj" Id="7301b795-ae40-47ce-a310-d2d02759bd19" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/SortingAlgo/SortingAlgo.csproj" Id="605f3086-ab90-4beb-8fbf-7916bfc4d597" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/StackAndQueue/StackAndQueueAndHashMap.csproj" Id="d41e59a3-fd07-4710-ac93-7d619f3006bb" />
+  <Project Path="D:/dotnet-fellowship-practice/DotNetFellowship/Streams/Streams.csproj" Id="41f34b74-41b4-4f2c-94aa-74957052e048" />
+  <Project Path="DSA-Scenrio-Based-Review/DSA-Scenrio-Based-Review.csproj" Id="e25bf1ad-1132-4284-aca8-72c35f3368a7" />
+  <Project Path="Exceptions/Exceptions.csproj" Id="170985dc-f7fd-4f5b-8276-f999b70ed0c4" />
+  <Project Path="PrintSpoolerTestProject1/PrintSpoolerTestProject1.csproj" Id="4aaf3d90-b2d3-4d56-aa5e-29245021c940" />
+  <Project Path="Reflection/Reflection.csproj" Id="f764ab81-1a1d-4718-af17-698399601663" />
+  <Project Path="Reviews/Reviews.csproj" Id="dc1cb535-75a9-4ffe-966e-93bd201fb2db" />
+  <Project Path="Search/Search.csproj" Id="33185fa2-d783-428c-b909-e1208f932bad" />
+  <Project Path="SearchPerformance/SearchPerformance.csproj" Id="14b5ccd4-b48e-4b21-9735-b0a044e34e00" />
+  <Project Path="TestingProject/TestingProject.csproj" Id="39532d85-4046-4b2c-a4b8-2cd8e889f243" />
 </Solution>

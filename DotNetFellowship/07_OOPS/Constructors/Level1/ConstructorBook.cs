@@ -2,14 +2,14 @@
 
 namespace _07_OOPS.Constructors.Level1
 {
-    internal class Book
+    internal class ConstructorBook
     {
         private string title;
         private string author;
         private double price;
 
         // Default Constructor
-        public Book()
+        public ConstructorBook()
         {
             title = "Unknown";
             author = "Unknown";
@@ -17,7 +17,7 @@ namespace _07_OOPS.Constructors.Level1
         }
 
         // Parameterized Constructor
-        public Book(string title, string author, double price)
+        public ConstructorBook(string title, string author, double price)
         {
             this.title = title;
             this.author = author;

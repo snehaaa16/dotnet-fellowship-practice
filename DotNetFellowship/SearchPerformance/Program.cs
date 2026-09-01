@@ -112,20 +112,12 @@ sw.Stop();
 Console.WriteLine("FileStream: " + sw.ElapsedMilliseconds + " ms");
 
 int n = 30;
-
 sw.Restart();
-
 FibonacciPerformance.FibonacciRecursive(n);
-
 sw.Stop();
-
 Console.WriteLine("Recursive: " + sw.ElapsedMilliseconds + " ms");
 
-
 sw.Restart();
-
 FibonacciPerformance.FibonacciIterative(n);
-
 sw.Stop();
-
 Console.WriteLine("Iterative: " + sw.ElapsedMilliseconds + " ms");
