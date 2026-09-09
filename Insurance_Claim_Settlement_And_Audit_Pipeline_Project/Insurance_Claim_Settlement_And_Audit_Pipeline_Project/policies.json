@@ -1,0 +1,22 @@
+{
+  "policies": [
+    {
+      "id": "POL1",
+      "coverage": {
+        "HEALTH": 200000
+      },
+      "deductible": {
+        "HEALTH": 1000
+      }
+    },
+    {
+      "id": "POL2",
+      "coverage": {
+        "VEHICLE": 100000
+      },
+      "deductible": {
+        "VEHICLE": 2000
+      }
+    }
+  ]
+}

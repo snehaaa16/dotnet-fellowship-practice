@@ -1,0 +1,10 @@
+2026-09-09 17:48:29 | ClaimId=CL1 | PolicyId=POL1 | ClaimAmount=15000 | ApprovedAmount=14000 | Decision=APPROVED | VERIFIED
+2026-09-09 17:48:29 | ClaimId=CL2 | PolicyId=POL2 | ClaimAmount=80000 | ApprovedAmount=78000 | Decision=APPROVED | VERIFIED
+2026-09-09 17:48:29 | Line=4 | ClaimId=CL3 | PolicyId=POL9 | REJECTED | Reason=Policy 'POL9' was not found.
+2026-09-09 17:48:29 | Line=5 | ClaimId=CL4 | PolicyId=POL1 | REJECTED | Reason=Claim amount 500000 exceeds coverage limit 200000.
+2026-09-09 17:48:29 | Line=6 | ClaimId=CL1 | PolicyId=POL1 | REJECTED | Reason=Claim 'CL1' is a duplicate claim.
+Total Claims=5
+Approved Claims=2
+Rejected Claims=3
+Total Claim Amount=95000
+Total Approved Amount=92000

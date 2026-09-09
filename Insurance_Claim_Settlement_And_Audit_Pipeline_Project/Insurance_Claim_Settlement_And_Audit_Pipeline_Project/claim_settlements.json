@@ -1,0 +1,18 @@
+{
+  "Settlements": [
+    {
+      "ClaimId": "CL1",
+      "PolicyId": "POL1",
+      "ClaimAmount": 15000,
+      "ApprovedAmount": 14000,
+      "Decision": "APPROVED"
+    },
+    {
+      "ClaimId": "CL2",
+      "PolicyId": "POL2",
+      "ClaimAmount": 80000,
+      "ApprovedAmount": 78000,
+      "Decision": "APPROVED"
+    }
+  ]
+}
